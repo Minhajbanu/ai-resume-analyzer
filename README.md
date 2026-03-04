@@ -66,7 +66,7 @@ cos(θ) = (A · B) / (||A|| ||B||)
 - **FAISS**
 - **Sentence Transformers**
 - **Ollama (Local LLM)**
-- **Plotly**
+- **matplotlib**
 - **SQLite**
 - **bcrypt**
 
