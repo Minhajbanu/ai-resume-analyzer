@@ -160,19 +160,7 @@ if analyze_button:
 
     st.pyplot(fig)
 
-    # ==============================
-    # HIRING INDICATOR
-    # ==============================
 
-    # st.divider()
-    # st.header("🎯 Hiring Recommendation Indicator")
-
-    # if final_score >= 75:
-    #     st.success("Strong Match – High Shortlisting Probability")
-    # elif final_score >= 40:
-    #     st.warning("Moderate Match – Candidate Needs Skill Improvement")
-    # else:
-    #     st.error("Weak Match – Significant Skill Gaps Identified")
 
     # ==============================
     # SKILLS REPORT
